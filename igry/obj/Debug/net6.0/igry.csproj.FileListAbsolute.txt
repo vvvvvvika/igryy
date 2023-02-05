@@ -1,0 +1,15 @@
+C:\Users\gramo\source\repos\igry\igry\bin\Debug\net6.0\igry.exe
+C:\Users\gramo\source\repos\igry\igry\bin\Debug\net6.0\igry.deps.json
+C:\Users\gramo\source\repos\igry\igry\bin\Debug\net6.0\igry.runtimeconfig.json
+C:\Users\gramo\source\repos\igry\igry\bin\Debug\net6.0\igry.dll
+C:\Users\gramo\source\repos\igry\igry\bin\Debug\net6.0\igry.pdb
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.csproj.AssemblyReference.cache
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.AssemblyInfoInputs.cache
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.AssemblyInfo.cs
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.csproj.CoreCompileInputs.cache
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.dll
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\refint\igry.dll
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.pdb
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\igry.genruntimeconfig.cache
+C:\Users\gramo\source\repos\igry\igry\obj\Debug\net6.0\ref\igry.dll
